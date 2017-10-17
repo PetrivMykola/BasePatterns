@@ -1,0 +1,9 @@
+.idea/*
+out/*
+*.iml
+*.class
+.gitignore
+.idea/
+BasePatterns.iml
+out/
+
